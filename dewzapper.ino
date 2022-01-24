@@ -67,7 +67,7 @@ void loop() {
       
     }
     if ( h < 50 ) {
-      //spegnere la lucw IR
+      //spegnere la luce IR
       digitalWrite(INTERR, LOW);
       
     }
